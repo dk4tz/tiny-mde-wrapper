@@ -3,6 +3,10 @@
 	"displayName": "tiny-mde-wrapper",
 	"description": "tiny wrapper to make zaaack's Markdown Editor extension as your default for .md files",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dk4tz/tiny-mde-wrapper"
+	},
 	"engines": {
 		"vscode": "^1.96.0"
 	},
